@@ -556,17 +556,12 @@ sites:
 
 
 status-website:
-  # If you do NOT have a custom domain, keep cname commented out
-  # cname: status.yourdomain.com
-
   baseUrl: /iwebup
-
   name: Website Uptime Reports
   introTitle: "**Website Uptime & Integrity Monitoring**"
   introMessage: >
     Real-time monitoring for availability, footer integrity, and security issues.
     Powered by GitHub Actions and Upptime.
-
   navbar:
     - title: Status
       href: /
