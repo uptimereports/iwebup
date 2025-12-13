@@ -351,7 +351,7 @@ sites:
     url: https://palmettocomprehensivehealth.com
     __dangerous__body_down_if_text_missing: "[Cc]opyright|©|&copy;|&#169;|&#xA9;|[Cc]opyright|©|&copy;|&#169;|&#xA9;"
 	__dangerous__body_down_if_text_missing: "THIS_TEXT_SHOULD_NEVER_EXIST_ANYWHERE"
-    __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
+	__dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: palmettomedicalinstitute.com
     url: https://palmettomedicalinstitute.com
