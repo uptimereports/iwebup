@@ -20,7 +20,7 @@ sites:
 	
   - name: griffininsurance.net/new
     url: http://griffininsurance.net/new
-    __dangerous__body_down_if_text_missing: "[Cc]opyright|©|&copy;|&#169;|&#xA9;|[Cc]opyright|©|&copy;|&#169;|&#xA9;"
+    __dangerous__body_down_if_text_missing: "<footer"
     
 
 
