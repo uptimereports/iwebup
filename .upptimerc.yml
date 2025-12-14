@@ -20,7 +20,7 @@ sites:
 	
   - name: griffininsurance.net/new
     url: http://griffininsurance.net/new
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
     
 
 
