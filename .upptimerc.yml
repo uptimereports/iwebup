@@ -21,7 +21,7 @@ sites:
     url: https://3guyslocksmiths.com
     __dangerous__body_down_if_text_missing: "<footer"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
-    
+
   - name: a1handymanfl.com
     url: https://a1handymanfl.com
     __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
@@ -220,7 +220,7 @@ sites:
     url: https://homeinspection-palmcoast.com
     __dangerous__body_down_if_text_missing: "<footer"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
-    
+
   - name: howsgrandma.com
     url: https://howsgrandma.com
     __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
