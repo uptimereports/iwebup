@@ -166,7 +166,7 @@
     "slug": "angelmaidscm-com",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "40.45%",
+    "uptimeDay": "53.56%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -207,7 +207,7 @@
     "slug": "atreasuredmemoryphotography-com",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "40.86%",
+    "uptimeDay": "53.98%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -248,7 +248,7 @@
     "slug": "blulumenpro-com",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "3.84%",
+    "uptimeDay": "25.34%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -269,7 +269,7 @@
     "slug": "buildcolumbiacounty-com",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "41.14%",
+    "uptimeDay": "54.31%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -528,19 +528,19 @@
     "url": "https://fencingnearmemiami.com",
     "icon": "https://icons.duckduckgo.com/ip3/fencingnearmemiami.com.ico",
     "slug": "fencingnearmemiami-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "2.91%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1520,
-    "timeDay": 1330,
-    "timeWeek": 1520,
-    "timeMonth": 1520,
-    "timeYear": 1520,
+    "time": 1551,
+    "timeDay": 1502,
+    "timeWeek": 1551,
+    "timeMonth": 1551,
+    "timeYear": 1551,
     "dailyMinutesDown": {
-      "2025-12-15": 150,
+      "2025-12-15": 188,
       "2025-12-13": 877
     }
   },
@@ -831,7 +831,7 @@
     "slug": "howsgrandma-com",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "69.62%",
+    "uptimeDay": "76.54%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -862,7 +862,7 @@
     "timeMonth": 1962,
     "timeYear": 1962,
     "dailyMinutesDown": {
-      "2025-12-15": 235,
+      "2025-12-15": 279,
       "2025-12-13": 876
     }
   },
@@ -953,7 +953,7 @@
     "slug": "kenjonesllc-com",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "39.36%",
+    "uptimeDay": "53.31%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -1054,7 +1054,7 @@
     "slug": "livemeaningfully-net",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "69.68%",
+    "uptimeDay": "76.67%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -1105,7 +1105,7 @@
     "timeMonth": 1377,
     "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-12-15": 190,
+      "2025-12-15": 234,
       "2025-12-13": 875
     }
   },
@@ -1126,7 +1126,7 @@
     "timeMonth": 178,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-12-15": 190,
+      "2025-12-15": 234,
       "2025-12-13": 730
     }
   },
@@ -1347,7 +1347,7 @@
     "timeMonth": 2308,
     "timeYear": 2308,
     "dailyMinutesDown": {
-      "2025-12-15": 190,
+      "2025-12-15": 234,
       "2025-12-13": 874
     }
   },
@@ -1588,7 +1588,7 @@
     "timeMonth": 2132,
     "timeYear": 2132,
     "dailyMinutesDown": {
-      "2025-12-15": 189,
+      "2025-12-15": 233,
       "2025-12-13": 872
     }
   },
@@ -1669,7 +1669,7 @@
     "timeMonth": 2012,
     "timeYear": 2012,
     "dailyMinutesDown": {
-      "2025-12-15": 229,
+      "2025-12-15": 273,
       "2025-12-13": 702
     }
   },
@@ -2010,7 +2010,7 @@
     "timeMonth": 2042,
     "timeYear": 2042,
     "dailyMinutesDown": {
-      "2025-12-15": 224,
+      "2025-12-15": 268,
       "2025-12-13": 700
     }
   },
@@ -2051,7 +2051,7 @@
     "timeMonth": 2484,
     "timeYear": 2484,
     "dailyMinutesDown": {
-      "2025-12-15": 222,
+      "2025-12-15": 266,
       "2025-12-13": 699
     }
   }
