@@ -16,13 +16,7 @@ workflowSchedule:
 
 delay: 2000
 
-
-    
-
-
-
-status-website:
-  baseUrl: /iwebup  - name: 3guyslocksmiths.com
+sites:
     url: https://3guyslocksmiths.com
     __dangerous__body_down_if_text_missing: "<footer"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
@@ -201,6 +195,7 @@ status-website:
     url: https://givelifecare.org
     __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
+  
   - name: godwinins.com
     url: https://godwinins.com
     __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
@@ -530,6 +525,13 @@ status-website:
     url: https://pinkpainterspro.com
     __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
+    
+
+
+
+status-website:
+  baseUrl: /iwebup  - name: 3guyslocksmiths.com
+
   name: Website Uptime Reports
   introTitle: "**Website Uptime & Integrity Monitoring**"
   introMessage: >
