@@ -124,17 +124,17 @@
     "url": "https://amnplumbingllc.com",
     "icon": "https://icons.duckduckgo.com/ip3/amnplumbingllc.com.ico",
     "slug": "amnplumbingllc-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1620,
-    "timeDay": 0,
-    "timeWeek": 1620,
-    "timeMonth": 1620,
-    "timeYear": 1620,
+    "time": 1588,
+    "timeDay": 1460,
+    "timeWeek": 1588,
+    "timeMonth": 1588,
+    "timeYear": 1588,
     "dailyMinutesDown": {
       "2025-12-13": 713
     }
@@ -166,7 +166,7 @@
     "slug": "angelmaidscm-com",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "5.28%",
+    "uptimeDay": "1.52%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -176,7 +176,7 @@
     "timeMonth": 5305,
     "timeYear": 5305,
     "dailyMinutesDown": {
-      "2025-12-15": 16,
+      "2025-12-15": 59,
       "2025-12-13": 712
     }
   },
@@ -207,7 +207,7 @@
     "slug": "atreasuredmemoryphotography-com",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "7.55%",
+    "uptimeDay": "2.02%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -217,7 +217,7 @@
     "timeMonth": 2046,
     "timeYear": 2046,
     "dailyMinutesDown": {
-      "2025-12-15": 15,
+      "2025-12-15": 57,
       "2025-12-13": 712
     }
   },
@@ -258,7 +258,7 @@
     "timeMonth": 1660,
     "timeYear": 1660,
     "dailyMinutesDown": {
-      "2025-12-15": 14,
+      "2025-12-15": 57,
       "2025-12-13": 857
     }
   },
@@ -269,7 +269,7 @@
     "slug": "buildcolumbiacounty-com",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "8.64%",
+    "uptimeDay": "2.16%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -279,7 +279,7 @@
     "timeMonth": 2078,
     "timeYear": 2078,
     "dailyMinutesDown": {
-      "2025-12-15": 13,
+      "2025-12-15": 56,
       "2025-12-13": 712
     }
   },
@@ -540,7 +540,7 @@
     "timeMonth": 1520,
     "timeYear": 1520,
     "dailyMinutesDown": {
-      "2025-12-15": 12,
+      "2025-12-15": 55,
       "2025-12-13": 877
     }
   },
@@ -829,19 +829,19 @@
     "url": "https://howsgrandma.com",
     "icon": "https://icons.duckduckgo.com/ip3/howsgrandma.com.ico",
     "slug": "howsgrandma-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "15.69%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 678,
-    "timeDay": 246,
-    "timeWeek": 678,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "time": 602,
+    "timeDay": 233,
+    "timeWeek": 602,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-12-15": 11,
+      "2025-12-15": 45,
       "2025-12-13": 731
     }
   },
@@ -862,7 +862,7 @@
     "timeMonth": 1963,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2025-12-15": 18,
+      "2025-12-15": 104,
       "2025-12-13": 876
     }
   },
@@ -951,19 +951,19 @@
     "url": "https://kenjonesllc.com",
     "icon": "https://icons.duckduckgo.com/ip3/kenjonesllc.com.ico",
     "slug": "kenjonesllc-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1545,
-    "timeDay": 1707,
-    "timeWeek": 1545,
-    "timeMonth": 1545,
-    "timeYear": 1545,
+    "time": 1503,
+    "timeDay": 1522,
+    "timeWeek": 1503,
+    "timeMonth": 1503,
+    "timeYear": 1503,
     "dailyMinutesDown": {
-      "2025-12-15": 18,
+      "2025-12-15": 90,
       "2025-12-13": 875
     }
   },
@@ -1052,19 +1052,19 @@
     "url": "https://livemeaningfully.net",
     "icon": "https://icons.duckduckgo.com/ip3/livemeaningfully.net.ico",
     "slug": "livemeaningfully-net",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.80%",
+    "uptimeDay": "13.52%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2528,
-    "timeDay": 5620,
-    "timeWeek": 2528,
-    "timeMonth": 2528,
-    "timeYear": 2528,
+    "time": 2322,
+    "timeDay": 3458,
+    "timeWeek": 2322,
+    "timeMonth": 2322,
+    "timeYear": 2322,
     "dailyMinutesDown": {
-      "2025-12-15": 9,
+      "2025-12-15": 44,
       "2025-12-13": 730
     }
   },
@@ -1093,19 +1093,19 @@
     "url": "https://louisthecoinbook.com",
     "icon": "https://icons.duckduckgo.com/ip3/louisthecoinbook.com.ico",
     "slug": "louisthecoinbook-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1385,
-    "timeDay": 1212,
-    "timeWeek": 1385,
-    "timeMonth": 1385,
-    "timeYear": 1385,
+    "time": 1377,
+    "timeDay": 1279,
+    "timeWeek": 1377,
+    "timeMonth": 1377,
+    "timeYear": 1377,
     "dailyMinutesDown": {
-      "2025-12-15": 16,
+      "2025-12-15": 95,
       "2025-12-13": 875
     }
   },
@@ -1114,19 +1114,19 @@
     "url": "https://morecooljustice.com",
     "icon": "https://icons.duckduckgo.com/ip3/morecooljustice.com.ico",
     "slug": "morecooljustice-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 180,
-    "timeDay": 133,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 178,
+    "timeDay": 151,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2025-12-15": 16,
+      "2025-12-15": 95,
       "2025-12-13": 730
     }
   },
@@ -1335,19 +1335,19 @@
     "url": "https://palmettomedicalinstitute.com",
     "icon": "https://icons.duckduckgo.com/ip3/palmettomedicalinstitute.com.ico",
     "slug": "palmettomedicalinstitute-com",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2306,
-    "timeDay": 2183,
-    "timeWeek": 2306,
-    "timeMonth": 2306,
-    "timeYear": 2306,
+    "time": 2308,
+    "timeDay": 2252,
+    "timeWeek": 2308,
+    "timeMonth": 2308,
+    "timeYear": 2308,
     "dailyMinutesDown": {
-      "2025-12-15": 16,
+      "2025-12-15": 94,
       "2025-12-13": 874
     }
   },
@@ -1576,19 +1576,19 @@
     "url": "https://taxvault.net",
     "icon": "https://icons.duckduckgo.com/ip3/taxvault.net.ico",
     "slug": "taxvault-net",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2133,
-    "timeDay": 2227,
-    "timeWeek": 2133,
-    "timeMonth": 2133,
-    "timeYear": 2133,
+    "time": 2132,
+    "timeDay": 2177,
+    "timeWeek": 2132,
+    "timeMonth": 2132,
+    "timeYear": 2132,
     "dailyMinutesDown": {
-      "2025-12-15": 14,
+      "2025-12-15": 94,
       "2025-12-13": 872
     }
   },
@@ -1669,7 +1669,7 @@
     "timeMonth": 1983,
     "timeYear": 1983,
     "dailyMinutesDown": {
-      "2025-12-15": 10,
+      "2025-12-15": 96,
       "2025-12-13": 702
     }
   },
@@ -2010,7 +2010,7 @@
     "timeMonth": 2123,
     "timeYear": 2123,
     "dailyMinutesDown": {
-      "2025-12-15": 4,
+      "2025-12-15": 90,
       "2025-12-13": 700
     }
   },
@@ -2041,7 +2041,7 @@
     "slug": "pinkpainterspro-com",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "33.76%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -2051,7 +2051,7 @@
     "timeMonth": 2518,
     "timeYear": 2518,
     "dailyMinutesDown": {
-      "2025-12-15": 2,
+      "2025-12-15": 88,
       "2025-12-13": 699
     }
   }
