@@ -1,0 +1,42 @@
+[
+  {
+    "name": "3guyslocksmiths.com",
+    "url": "https://3guyslocksmiths.com",
+    "icon": "https://icons.duckduckgo.com/ip3/3guyslocksmiths.com.ico",
+    "slug": "3guyslocksmiths-com",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 2451,
+    "timeDay": 2871,
+    "timeWeek": 2451,
+    "timeMonth": 2451,
+    "timeYear": 2451,
+    "dailyMinutesDown": {
+      "2025-12-13": 714
+    }
+  },
+  {
+    "name": "a1handymanfl.com",
+    "url": "https://a1handymanfl.com",
+    "icon": "https://icons.duckduckgo.com/ip3/a1handymanfl.com.ico",
+    "slug": "a1handymanfl-com",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 1809,
+    "timeDay": 1794,
+    "timeWeek": 1809,
+    "timeMonth": 1809,
+    "timeYear": 1809,
+    "dailyMinutesDown": {
+      "2025-12-13": 713
+    }
+  }
+]
