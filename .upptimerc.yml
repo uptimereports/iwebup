@@ -49,7 +49,7 @@ sites:
 
   - name: amnplumbingllc.com
     url: https://amnplumbingllc.com
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "footer"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: andrewkreig.com
@@ -223,7 +223,7 @@ sites:
 
   - name: howsgrandma.com
     url: https://howsgrandma.com
-    __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
+    __dangerous__body_down_if_text_missing: "Hows Grandma"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: hwmtraining.com
@@ -253,7 +253,7 @@ sites:
 
   - name: kenjonesllc.com
     url: https://kenjonesllc.com
-    __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
+    __dangerous__body_down_if_text_missing: "Privacy"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: larrysfencing.com
@@ -278,7 +278,7 @@ sites:
 
   - name: livemeaningfully.net
     url: https://livemeaningfully.net
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "Licensed"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: locksmithrightnow.com
@@ -288,12 +288,12 @@ sites:
 
   - name: louisthecoinbook.com
     url: https://louisthecoinbook.com
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "More"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: morecooljustice.com
     url: https://morecooljustice.com
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "Privacy"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: munsonhof.com
@@ -348,7 +348,7 @@ sites:
 
   - name: palmettomedicalinstitute.com
     url: https://palmettomedicalinstitute.com
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "Coming"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: partnersinhc.com
@@ -408,7 +408,7 @@ sites:
 
   - name: taxvault.net
     url: https://taxvault.net
-    __dangerous__body_down_if_text_missing: "<footer"
+    __dangerous__body_down_if_text_missing: "Privacy"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: techsuranceai.com
