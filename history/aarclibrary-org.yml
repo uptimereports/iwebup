@@ -1,7 +1,7 @@
 url: https://aarclibrary.org
-status: up
-code: 200
-responseTime: 7169
-lastUpdated: 2025-12-22T23:35:44.056Z
+status: down
+code: 503
+responseTime: 206
+lastUpdated: 2025-12-22T23:49:43.106Z
 startTime: 2025-12-15T13:23:46.342Z
 generator: Upptime <https://github.com/upptime/upptime>
