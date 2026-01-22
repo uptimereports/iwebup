@@ -194,7 +194,7 @@ sites:
   
   - name: godwinins.com
     url: https://godwinins.com
-    __dangerous__body_down_if_text_missing: "<footer class"
+    __dangerous__body_down_if_text_missing: "<footer data-elementor-type"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: goodtimeprinting.com
