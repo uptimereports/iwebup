@@ -274,7 +274,7 @@ sites:
 
   - name: livemeaningfully.net
     url: https://livemeaningfully.net
-    __dangerous__body_down_if_text_missing: "id="footer-content"
+    __dangerous__body_down_if_text_missing: "footer-content"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: locksmithrightnow.com
