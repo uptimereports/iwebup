@@ -444,7 +444,7 @@ sites:
 
   - name: urban2urbanhomes.com
     url: https://urban2urbanhomes.com
-    __dangerous__body_down_if_text_missing: "footer id="jet-theme-core-footer"
+    __dangerous__body_down_if_text_missing: "jet-theme-core-footer"
     __dangerous__body_down: "Hacked by|Defaced|Account Suspended|This Account Has Been Suspended|Malware|Viagra|Cialis|Casino|Japanese Keyword Hack|Pharma hack|Pay ransom|Decryption key"
 
   - name: urbanlasalon.com
